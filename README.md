@@ -282,7 +282,7 @@ Interview-ready explanation
 ### 👤 Author
 
 Rishabh Jain
-AI Intern — Alma Mater
+AI Intern — AlmaBatter
 Location: Agra, Uttar Pradesh
 
 ### ⭐ Conclusion
